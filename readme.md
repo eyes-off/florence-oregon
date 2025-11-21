@@ -11,11 +11,12 @@ For more information see [EyesOffEugene.org](https://eyesoffeugene.org).
 
 ## Public Records Requests
 # Active Requests
-| Label                                      | Submitted  | Status                                           | Fee                 | Link   |
-|--------------------------------------------|------------|--------------------------------------------------|---------------------|--------|
+| Label                                      | Submitted  | Status                                          | Fee                 | Link   |
+|--------------------------------------------|------------|-------------------------------------------------|---------------------|--------|
+| Flock Data Sharing                         | 11/21/2025 | Open                                            |                     | [Link](https://github.com/eyes-off/florence-oregon/tree/main/PublicRecords/FlockDataSharing%5B2511-14%5D) |
 
 # Inactive Requests
 | Label                                      | Submitted | Status                                           | Fee                 | Link   |
 |--------------------------------------------|-----------|--------------------------------------------------|---------------------|--------|
-| Flock Contract                             | 10/23/2025 | Closed - Fulfilled                              |                     | [Link](https://github.com/eyes-off/florence-oregon/tree/main/PublicRecords/) |
-| Flock Camera Locations                     | 10/23/2025 | Closed - Fulfilled                              |                     | [Link](https://github.com/eyes-off/florence-oregon/tree/main/PublicRecords/) |
+| Flock Contract                             | 10/23/2025 | Closed - Fulfilled                              |                     | [Link](https://github.com/eyes-off/florence-oregon/tree/main/PublicRecords/FlockContract%5B2510-07%5D) |
+| Flock Camera Locations                     | 10/23/2025 | Closed - Fulfilled                              |                     | [Link](https://github.com/eyes-off/florence-oregon/tree/main/PublicRecords/FlockCameraLocations%5B2510-08%5D) |
